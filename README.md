@@ -7,7 +7,7 @@ binary-art-generator.py:
   Type emoji:
       Type an emoji to incorporate. I recommend a colored square emoji such as 🟥🟧🟨🟩🟦🟪 or ⬛️. DO NOT use the ⬜️ emoji, as it will blend in with the background.
   Type image length. 
-      Length 1 is for a picture 8 bits wide, so it is better for VERY short quotes (about 5 characters). level 5 is 40 bits wide, so it is better for longer messages. Please experiment with image length to find the best fit for your text.
+      Length 1 is for a picture 8 bits wide, so it is better for VERY short quotes (about 5 characters). Length 5 is 40 bits wide, so it is better for longer messages. Please experiment with image length to find the best fit for your text.
   Type text.
       Type in a quote or saying. Make sure you use the right image length to fit your text.
   Recieve results!
